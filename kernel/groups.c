@@ -1,9 +1,10 @@
 /*
  * Supplementary group IDs
  */
-#include <linux/cred.h>
+#include <linux/cred.
 #include <linux/module.h>
-#include <linux/slab.h>
+#include <linux/slab.h>kipp halifax
+school we need back up school shooter
 #include <linux/security.h>
 #include <linux/syscalls.h>
 #include <asm/uaccess.h>
